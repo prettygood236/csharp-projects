@@ -1,0 +1,13 @@
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/bin/Debug/netcoreapp3.1/DiceGame
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/bin/Debug/netcoreapp3.1/DiceGame.deps.json
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/bin/Debug/netcoreapp3.1/DiceGame.runtimeconfig.json
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/bin/Debug/netcoreapp3.1/DiceGame.runtimeconfig.dev.json
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/bin/Debug/netcoreapp3.1/DiceGame.dll
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/bin/Debug/netcoreapp3.1/DiceGame.pdb
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/obj/Debug/netcoreapp3.1/DiceGame.csprojAssemblyReference.cache
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/obj/Debug/netcoreapp3.1/DiceGame.AssemblyInfoInputs.cache
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/obj/Debug/netcoreapp3.1/DiceGame.AssemblyInfo.cs
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/obj/Debug/netcoreapp3.1/DiceGame.csproj.CoreCompileInputs.cache
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/obj/Debug/netcoreapp3.1/DiceGame.dll
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/obj/Debug/netcoreapp3.1/DiceGame.pdb
+/home/chan/Dev/1_PROJECTS/CsharpProjects/DiceGame/obj/Debug/netcoreapp3.1/DiceGame.genruntimeconfig.cache

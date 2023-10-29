@@ -1,0 +1,13 @@
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/bin/Debug/netcoreapp3.1/TestProject
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/bin/Debug/netcoreapp3.1/TestProject.deps.json
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/bin/Debug/netcoreapp3.1/TestProject.runtimeconfig.json
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/bin/Debug/netcoreapp3.1/TestProject.runtimeconfig.dev.json
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/bin/Debug/netcoreapp3.1/TestProject.dll
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/bin/Debug/netcoreapp3.1/TestProject.pdb
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/obj/Debug/netcoreapp3.1/TestProject.csprojAssemblyReference.cache
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/obj/Debug/netcoreapp3.1/TestProject.AssemblyInfoInputs.cache
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/obj/Debug/netcoreapp3.1/TestProject.AssemblyInfo.cs
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/obj/Debug/netcoreapp3.1/TestProject.csproj.CoreCompileInputs.cache
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/obj/Debug/netcoreapp3.1/TestProject.dll
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/obj/Debug/netcoreapp3.1/TestProject.pdb
+/home/chan/Dev/1_PROJECTS/CsharpProjects/TestProject/obj/Debug/netcoreapp3.1/TestProject.genruntimeconfig.cache
